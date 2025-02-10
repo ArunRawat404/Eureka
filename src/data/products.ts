@@ -1,3 +1,5 @@
+import { Product } from '../types'; // Adjust path as needed
+
 export const products: Product[] = [
     {
         id: "1",
